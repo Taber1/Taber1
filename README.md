@@ -15,8 +15,8 @@ Hey Guys 👋, I'm Taber Bin Zameer, An undergradute Software Engineering studen
 <a href="https://www.linkedin.com/in/taberzameer/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="tbzameer@gmail.com">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://twitter.com/TaberZameer">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/taber.zameer">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
