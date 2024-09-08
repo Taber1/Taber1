@@ -1,4 +1,4 @@
-### Hey Guys 👋, I'm [Taber Bin Zameer.!](http://taberzameer.herokuapp.com/) 
+### Hey Guys 👋, I'm [Taber Bin Zameer.!](https://taber-zameer.vercel.app/) 
 
 <br />
 Hey Guys 👋, I'm Taber Bin Zameer 🙍🏽‍♂️, a versatile Senior Flutter Developer with practical experience in Firebase services, Flutter State Management, OOP, Node.js, and GraphQL. I have designed and developed mobile applications that have been successfully deployed to the app stores. My expertise in clean architecture, SOLID principles, and backend integration using Node.js and GraphQL enables me to deliver seamless user experiences. I am skilled in working with third-party libraries such as Google Maps, FCM, and Stripe, and have experience with cloud technologies including GCP and AWS Cloud Functions. With a strong foundation in data science and machine learning using Python, TensorFlow, and Pandas, I bring a holistic approach to app development. Let's connect and explore how we can create innovative solutions together. 💻👨‍💻
